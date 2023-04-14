@@ -1,4 +1,4 @@
-CLASS ycl_jp_ooabap_test1 DEFINITION
+CLASS ycl_jp_ooabap_git_test1 DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -26,7 +26,7 @@ ENDCLASS.
 
 
 
-CLASS ycl_jp_ooabap_test1 IMPLEMENTATION.
+CLASS ycl_jp_ooabap_git_test1 IMPLEMENTATION.
   METHOD if_oo_adt_classrun~main.
 
     DATA lv_out TYPE i.
